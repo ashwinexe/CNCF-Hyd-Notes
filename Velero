@@ -1,0 +1,11 @@
+Velero is an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes.
+
+1. API-driven backup approach 
+2. High Flexibility 
+3. User Access 
+4. Easy Backup and Restore 
+5. Easy usage
+
+## Links
+- https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-velero
+- https://velero.io/docs/v1.11/disaster-case/
